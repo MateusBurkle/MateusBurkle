@@ -10,7 +10,7 @@ Estudante de Sistemas de Informação • CEO da LEAF TI • buscando meu primei
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando o 5º semestre de **Sistemas de Informação** na Faculdade Presbiteriana Mackenzie (Alphaville)
+- 🎓 Cursando o 6º semestre de **Sistemas de Informação** na Faculdade Presbiteriana Mackenzie (Alphaville)
 - 🌱 CEO da **LEAF TI**, projeto acadêmico de gestão sustentável de e-waste (B2B) no Brasil
 - 🧠 Foco em **Machine Learning / IA** e **Segurança da Informação**
 - 🌎 Inglês **C1 (CEFR)** — 3 meses de curso intensivo na Kaplan International (Los Angeles)
