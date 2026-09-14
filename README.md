@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o @MateusBurkle 👋</h1>
 
 <p align="center">
-Estudante de Sistemas de Informação • CEO da LEAF TI • buscando meu primeiro estágio
+Estudante de Sistemas de Informação • CEO da LEAF TI 
 </p>
 
 ---
