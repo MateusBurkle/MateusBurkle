@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o @MateusBurkle 👋</h1>
 
 <p align="center">
-Estudante de Sistemas de Informação • CEO da LEAF TI 
+Estudante de Sistemas de Informação 
 </p>
 
 ---
@@ -11,7 +11,6 @@ Estudante de Sistemas de Informação • CEO da LEAF TI
 ### 🚀 Sobre mim
 
 - 🎓 Cursando o 6º semestre de **Sistemas de Informação** na Faculdade Presbiteriana Mackenzie (Alphaville)
-- 🌱 CEO da **LEAF TI**, projeto acadêmico de gestão sustentável de e-waste (B2B) no Brasil
 - 🧠 Foco em **Machine Learning / IA**
 - 🌎 Inglês **C1 (CEFR)** — 3 meses de curso intensivo na Kaplan International (Los Angeles)
 
