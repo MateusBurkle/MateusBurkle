@@ -20,13 +20,7 @@ Estudante de Sistemas de Informação
 ### 🛠️ Tecnologias & Conhecimentos
 
 **Linguagens & Análise de Dados**
-`Python` `R` `Java` — estatística descritiva, distribuições, estruturas de dados (BST, AVL, recursão)
-
-**Cloud & Bancos de Dados**
-`Azure Fundamentals` `SaaS/PaaS/IaaS` — Data Warehouse, ETL, NoSQL, Big Data
-
-**Segurança da Informação**
-Tríade CIA, criptografia, hardening de SO, tipos de ataque
+`Python` `R` `Java` — estatística descritiva, distribuições, estruturas de dados 
 
 **Arquitetura & Gestão**
 Padrões GoF, GRASP, modelo C4, gestão de projetos de TI
