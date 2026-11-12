@@ -20,7 +20,7 @@ Estudante de Sistemas de Informação
 ### 🛠️ Tecnologias & Conhecimentos
 
 **Linguagens & Análise de Dados**
-`Python` `R` `Java` — estatística descritiva, distribuições, estruturas de dados 
+`Python` `Java` — estatística descritiva, distribuições, estruturas de dados 
 
 **Arquitetura & Gestão**
 Padrões GoF, GRASP, modelo C4, gestão de projetos de TI
